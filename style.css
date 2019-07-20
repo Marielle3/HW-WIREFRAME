@@ -7,6 +7,7 @@
 
 
 header { 
+     
     padding: 30px;
     margin: auto;
     background: #ebebeb; 
@@ -24,6 +25,7 @@ body {
 }
 
 #Nav {
+   
     padding: 30px;
     margin: 10px auto; 
     background: #ebebeb; 
@@ -32,6 +34,7 @@ body {
 }
 
 #section { 
+      
     background: #ebebeb; 
     padding: 50px; 
     width: 495px;
@@ -71,6 +74,7 @@ body {
 
 
 #aside {
+    
     float: right;
     padding: 0px 0px 230px 0px;
     margin: auto;
@@ -82,14 +86,15 @@ body {
     
 
 footer {
-    background: #ebebeb;
-    bottom: 10px;
-    width: 880px;
-    position: absolute;
-    margin: 10px 0px 0px 0px;
-    padding: 40px;
-    
-  }
+  
+  background: #ebebeb;
+  bottom: 10px;
+  width: 900px;
+  position: absolute;
+  margin: 19px 53px 24px 0px;
+  padding: 30px;
+  text-align: center;
 
+}
 
   
