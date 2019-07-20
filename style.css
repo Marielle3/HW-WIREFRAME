@@ -2,14 +2,16 @@
     content: " ";
     display: block;
     clear: both;
+    
   } 
 
 
-h1 { 
-    padding: 20px;
-    margin: 30px; 
+header { 
+    padding: 30px;
+    margin: auto;
     background: #ebebeb; 
     text-align: center;
+    font-weight: normal;
 }
 
 body { 
@@ -18,68 +20,74 @@ body {
     font-size: 18px; 
     font-family: Arial, Helvetica, sans-serif;
     color: #777;
+    padding: 20px;
 }
 
 #Nav {
-    padding: 20px;
-    margin: 30px; 
+    padding: 30px;
+    margin: 10px auto; 
     background: #ebebeb; 
     text-align: center;
-    font-size: 18px;
     
 }
 
 #section { 
     background: #ebebeb; 
-    padding: 60px; 
+    padding: 50px; 
     width: 495px;
     float: left;
-    margin: 10px; 
+    margin: auto;
+    text-align: center;
+    height: 150px;
+
 }
 
 #article {  
-    padding: 40px;
-    margin: 10px; 
+    padding: 10px 50px 10px;
+    margin: 10px auto;
     background: #777; 
     text-align: center;
-    font-size: 18px;
     color: #ebebeb; 
-    float: left; 
-    width: 300px; 
+    width: 400px; 
 }
 
 #p { 
     padding: 10px; 
-    margin: 10px;
+    margin: 10px auto;
     background: #ebebeb;
     color: #777;
     text-align: center; 
-    width: 200px;
+    width: 400px;
 }
 
-#h1 {
+#h {
   padding: 10px; 
-  margin: 10px; 
+  margin: 10px auto; 
   background: #ebebeb;
   color: #777;
   text-align: center; 
-  width: 200px;
+  width: 400px;
 }
 
 
 #aside {
-    float: right; 
-    padding: 40px;
-    margin: 60px; 
-    background: #ebebeb; 
+    float: right;
+    padding: 0px 0px 230px 0px;
+    margin: auto;
+    background: #ebebeb;
     text-align: center;
     font-size: 18px;
+    width: 350px;
 }
+    
 
 footer {
-    padding: 20px;
     background: #ebebeb;
-    float: bottom;  
+    bottom: 10px;
+    width: 880px;
+    position: absolute;
+    margin: 10px 0px 0px 0px;
+    padding: 40px;
     
   }
 
