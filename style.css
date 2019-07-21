@@ -5,7 +5,6 @@
     
   } 
 
-
 header { 
      
     padding: 30px;
@@ -35,23 +34,24 @@ body {
 
 #section { 
       
-    background: #ebebeb; 
-    padding: 50px; 
+    background: #ebebeb;
+    padding: 45px;
     width: 495px;
     float: left;
-    margin: auto;
+    margin: 0px;
     text-align: center;
-    height: 150px;
+    height: 160px;
 
 }
 
 #article {  
     padding: 10px 50px 10px;
     margin: 10px auto;
-    background: #777; 
+    background: #777;
     text-align: center;
-    color: #ebebeb; 
-    width: 400px; 
+    color: #ebebeb;
+    width: 400px;
+    
 }
 
 #p { 
